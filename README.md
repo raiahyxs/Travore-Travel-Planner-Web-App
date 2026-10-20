@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+<div align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🌍 Travore
 
-## Available Scripts
+### Discover destinations. Plan your journey. Travel prepared.
 
-In the project directory, you can run:
+A travel website that brings destination planning and weather forecasts together, helping you prepare for your next adventure.
 
-### `npm start`
+![Travel](https://img.shields.io/badge/Travel-Explore_the_World-0EA5E9?style=for-the-badge)
+![Planning](https://img.shields.io/badge/Planning-Your_Next_Adventure-14B8A6?style=for-the-badge)
+![Weather](https://img.shields.io/badge/Weather-5--Day_Forecast-F59E0B?style=for-the-badge)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🧭 About Travore
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Travore** helps users plan their trips by searching for destinations and adding places they want to visit. With a **5-day weather forecast** for the chosen location, users can consider upcoming weather conditions when making travel plans.
 
-### `npm run build`
+Whether you're exploring somewhere new or planning a familiar getaway, Travore helps you take the next step.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## ✨ Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+| Feature | Description |
+|:--------|:------------|
+| 🔎 **Destination Search** | Search for places you want to explore. |
+| 📍 **Add Destinations** | Add destinations you want to visit to your travel plans. |
+| 🌤️ **5-Day Weather Forecast** | View upcoming weather conditions for your chosen location. |
+| 🧳 **Weather-Informed Planning** | Use the forecast to help decide when to explore and what to prepare. |
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🗺️ How It Works
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. **Search a destination** — Find a location you would like to visit.
+2. **Add it to your plans** — Keep track of the places you want to explore.
+3. **Check the forecast** — View the location’s weather outlook for the next five days.
+4. **Prepare for your trip** — Plan your activities and packing with the forecast in mind.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<div align="center">
 
-## Learn More
+### ✈️ Your next adventure starts with a plan.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Explore with curiosity. Prepare with Travore.**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+</div>
